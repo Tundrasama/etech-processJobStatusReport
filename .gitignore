@@ -1,0 +1,9 @@
+__pycache__
+build
+include
+Lib
+Scripts
+cli.py
+listReformat.py
+pyvenv.cfg
+processJobStatusReport/*.xlsx
